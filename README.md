@@ -1,4 +1,4 @@
-# CapX
+#  Telegram Sentiment Analyzer for Stock Market
 
 This project focuses on scraping messages from Telegram channels to extract stock market-related insights and build a predictive model for stock price movements. It includes data scraping, preprocessing, feature extraction, machine learning model training, and evaluation.
 
